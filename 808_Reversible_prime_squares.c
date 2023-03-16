@@ -32,7 +32,6 @@ int main() {
         } 
     }
 
-    //printf("palindrom:%d  reverse:%lld   jerever:%d\n", jepalindrom(169), reverse(169), jereverprastevilo(961, tabela));
 
     for(int i = 0; zaporedna < 50; i++){
         long long int st = temp * tabela[i];
